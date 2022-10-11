@@ -27,7 +27,7 @@ mohammadehsankhodaee@gmail.com
 #define Conversion_register 0
 #define Config_register     1
 #define Lo_thresh_register  2
-#define Hi_thresh register  3
+#define Hi_thresh_register  3
 
 
 
